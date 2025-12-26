@@ -3,7 +3,7 @@
 	"name": "AI Assistant",
 	"version": "2.0",
 	"description": "AI for Zotero",
-	"homepage_url": "https://github.com/zotero/make-it-red",
+	"homepage_url": "https://github.com/zotero/ai-assistant-plugin",
 	"applications": {
 		"zotero": {
 			"id": "ai.assistant@example.com",
